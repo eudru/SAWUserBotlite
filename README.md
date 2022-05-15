@@ -8,15 +8,15 @@
 
 ## Помощь 🚑
 
-<a href="https://t.me/SAWUser_bot">
+<a href="https://t.me/SAWUserbot">
 
 <a href="https://t.me/SAWUserbot">
 
 ## Создатель
 
-* [Telegram](https://t.me/sawandr)
+* [Telegram](https://t.me/ggshnick)
 
-* [Github](https://github.com/Brawl9008)
+* [Github](https://github.com/ZsawZ)
 
 ## Для Termux (Android)
 
@@ -24,7 +24,7 @@
 
 ```
 
-pkg update && pkg upgrade && pkg install git && pkg install python && git clone https://github.com/Brawl9008/SAWUserBot && termux-wake-lock && cd SAWUserBot && pip install -r requirements.txt && python bot.py
+pkg update && pkg upgrade && pkg install git && pkg install python && git clone https://github.com/Brawl9008/SAWUserBotlite && termux-wake-lock && cd SAWUserBotlite && pip install -r requirements.txt && python bot.py
 
 ```
 
@@ -32,7 +32,7 @@ pkg update && pkg upgrade && pkg install git && pkg install python && git clone 
 
 ```
 
-cd SAWUserbot && termux-wake-lock && pip install utils && python bot.py
+cd SAWUserBotlite && termux-wake-lock && pip install utils && python bot.py
 
 ```
 
@@ -50,13 +50,13 @@ cd SAWUserbot && termux-wake-lock && pip install utils && python bot.py
 
 И ожидаем...
 
-Теперь скачиваем ЮзерБота По этой [Ссылке](https://github.com/Brawl9008/SAWUserbot/archive/refs/heads/main.zip) если нету то ты лох. устанавливай вручную git, запускай cmd и пиши 
+Теперь скачиваем ЮзерБота По этой [Ссылке](https://github.com/Brawl9008/SAWUserBotlite/archive/refs/heads/main.zip) если нету то ты лох. устанавливай вручную git, запускай cmd и пиши 
 
 ```
 
-git clone https://github.com/Brawl9008/SAWUserbot
+git clone https://github.com/Brawl9008/SAWUserBotlite
 
-cd SAWUserbot
+cd SAWUserBotlite
 
 python bot.py 
 
@@ -88,7 +88,7 @@ apt install python3 git python3-pip
 
 ```
 
-git clone https://github.com/Brawl9008/SAWUserbot.git
+git clone https://github.com/Brawl9008/SAWUserBotlite.git
 
 ```
 
@@ -96,7 +96,7 @@ git clone https://github.com/Brawl9008/SAWUserbot.git
 
 ```
 
-cd SAWUserbot
+cd SAWUserBotlite
 
 ```
 
@@ -116,7 +116,7 @@ python3 bot.py
 
 ```
 
-cd SAWUserbot && python3 bot.py
+cd SAWUserBotlite && python3 bot.py
 
 ```
 
